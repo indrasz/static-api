@@ -9,9 +9,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -24,9 +30,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -39,9 +51,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -54,9 +72,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -69,9 +93,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -84,9 +114,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -99,9 +135,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -114,9 +156,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -129,9 +177,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     },
     {
@@ -144,9 +198,15 @@
         "quantity": 10,
         "price": 199000,
         "categories": [
-            "casual",
-            "chic",
-            "bohemian"
+            {
+                "name": "casual"
+            },
+            {
+                "name": "chic"
+            },
+            {
+                "name": "bohemian"
+            }
         ]
     }
 ]
