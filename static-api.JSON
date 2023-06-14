@@ -6,6 +6,8 @@
         "pictureId": "blue-clothes",
         "city": "Medan",
         "rating": 4.2,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -19,6 +21,8 @@
         "pictureId": "brown-sweater",
         "city": "Gorontalo",
         "rating": 4,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -32,6 +36,8 @@
         "pictureId": "denim-short",
         "city": "Surabaya",
         "rating": 4.2,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -45,6 +51,8 @@
         "pictureId": "jeans-jacket",
         "city": "Aceh",
         "rating": 4.6,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -58,6 +66,8 @@
         "pictureId": "leather-brown",
         "city": "Balikpapan",
         "rating": 4.5,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -71,6 +81,8 @@
         "pictureId": "pastel-long",
         "city": "Medan",
         "rating": 3.7,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -84,6 +96,8 @@
         "pictureId": "red-suede",
         "city": "Surabaya",
         "rating": 3.9,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -97,6 +111,8 @@
         "pictureId": "sweater-white",
         "city": "Balikpapan",
         "rating": 4.1,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -110,6 +126,8 @@
         "pictureId": "tshirt-orange",
         "city": "Bali",
         "rating": 4,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
@@ -123,6 +141,8 @@
         "pictureId": "zendaya-fashion",
         "city": "Surabaya",
         "rating": 4.4,
+        "quantity": 10,
+        "price": 199000,
         "categories": [
             "casual",
             "chic",
